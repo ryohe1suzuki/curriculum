@@ -11,7 +11,6 @@ package study;
  *
  */
 public class Main {
-
 	public static void main(String[] args) {
 		
 		// ① 以下のルールに従いUserクラスのインスタンスを生成してください。
